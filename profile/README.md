@@ -12,7 +12,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ## Overview
----
 Hej og velkommen til Bilanbonnement.dk GitHub organizationen repository. Vi hedder Natazja, Sofie og Viktor, og vores team har udviklet et system som indeholder microservice-baseret arkitektur.
 
 
