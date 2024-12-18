@@ -33,7 +33,7 @@ Vores system er bygget op af følgende komponenter:
 ## Hvordan Tjenesterne Arbejder Sammen
 
 Microservices kommunikerer med hinanden via REST API
-
+ - OBS. links på Azure virker ikke endnu, dog virker deployment og workflows
 
 <!--
 
